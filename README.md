@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/isabelarocosta/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/isabxlarc/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
   <a href="mailto:isabelarodriguescos@gmail.com">
