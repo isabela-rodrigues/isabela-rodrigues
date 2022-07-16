@@ -19,7 +19,7 @@
 </p>
 <br>
 <p align="left">
-  <a href="#" alt="Discord">
+  <a href="https://discordapp.com/users/4955" alt="Discord">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
   <a href="https://www.linkedin.com/in/isabelarocosta/" alt="Linkedin">
