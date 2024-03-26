@@ -9,8 +9,8 @@
 <p align="left"> 
   Eu sou a Isa.<br>
   <br>
-  Sou estudante de Ciência da Computação e atualmente Analista de Dados com foco em <strong>Engenharia</strong>.<br>
-  Compartilho meu processo de aprendizagem, projetos pessoais and more.
+  Sou formada em Ciência da Computação e atuo como Analista de Dados com foco em <strong>Engenharia</strong>.<br>
+  Compartilho meu processo de aprendizagem, projetos pessoais e mais.
 </p>
 <br>
 
@@ -24,9 +24,6 @@
 
   <a href="https://www.linkedin.com/in/isabelarocosta/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-  <a href="https://www.instagram.com/isabxlarc/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
   <a href="mailto:isabelarodriguescos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
